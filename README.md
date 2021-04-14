@@ -4,6 +4,8 @@
 ## Getting Started:
 | [Link to Vercel](https://sea-portfolio.vercel.app/) :trollface: |
 
+![joTr.io - About](https://i.imgur.com/gLzFMR2.png/)
+
 ## Technology + Techniques
 
 ##### :small_blue_diamond: HTML5
