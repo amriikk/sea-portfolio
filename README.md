@@ -24,3 +24,7 @@
 
 
 ## Future Enhancements
+
+##### :small_orange_diamond: Toggle for Light/Dark scheme
+
+##### :small_orange_diamond: Add gradient background in CSS
