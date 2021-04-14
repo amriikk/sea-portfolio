@@ -5,6 +5,7 @@
 | [Link to Vercel](https://sea-portfolio.vercel.app/) :trollface: |
 
 ![joTr.io - About](https://i.imgur.com/gLzFMR2.png/)
+![joTr.io - Projects](https://i.imgur.com/2XQA6ik.png/)
 
 ## Technology + Techniques
 
