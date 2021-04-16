@@ -34,3 +34,5 @@
 
 ##### :small_orange_diamond: Add gradient background in CSS
 
+##### :small_orange_diamond: Add more onClick animations 
+
