@@ -1,6 +1,8 @@
 # joTr.io 
 ## jhon trujillo | software engineer
 
+### Snap Engineering Academy 2021
+
 ## Getting Started:
 | [Link to Vercel](https://sea-portfolio.vercel.app/) :trollface: |
 
