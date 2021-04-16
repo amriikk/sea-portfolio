@@ -1,5 +1,6 @@
 # joTr.io 
 ## jhon trujillo | software engineer
+based in Los Angeles, California 
 
 ### Snap Engineering Academy 2021
 
